@@ -8,4 +8,4 @@ In this console based app you can :-
    (e) Search a customer's information by Account Number or Account Holder's Name
    (f) Make Transaction
 
-	PRESENT PASSWORD -PASS
+	GNERATE NEW PASSWORD OR ELSE PRESENT PASSWORD -PASS
